@@ -1,5 +1,5 @@
 # TapTheCircle Android Game
-This is my first project for native Android. I developed using with Kotlin. I used local storage and data transfer for two pages. 
+This is my first project for native Android. I developed with using Kotlin. I used local storage and data transfer for two pages. 
 
 ## Emulator ScreenShots
 <div align='center'>
